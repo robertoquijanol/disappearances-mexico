@@ -2,7 +2,7 @@
 
 ### Summary
 
-From 2008 to 2018, nearly 40,000 disappearances were recorded in all 32 Mexican states. As a response, the federal government set up the National Registry of Information of Disappeared People. States that have higher presence of organized crime are those that have the most disappearances. Particularly, northern states present the highest numbers of disappearances but when adjusted to a rate of 100,000, their numbers are not as severe as other less populated states.
+From 2008 to 2018, nearly 40,000 disappearances were recorded in all 32 Mexican states. As a response, the federal government set up the National Registry of Information of Missing and Disappeared Persons. States that have higher presence of organized crime are those that have the most disappearances. Particularly, northern states present the highest numbers of disappearances even when adjusting to a rate per 100,000.
 
 ### Input Data 
 
