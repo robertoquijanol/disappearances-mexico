@@ -7,9 +7,13 @@
 - The five states with the highest rate of disappearances per 100,000 are: 
 
 	a) Tamaulipas at 174 per 100,000
+	
 	b) Sinaloa at 102 per 100,000
+	
 	c) Colima at 102 per 100,000
+	
 	d) Sonora at 75 per 100,0000
+	
 	e) Chihuahua at 61 per 100,000
 
 - The above indicates that northern states have the highest rates in the country. Colima, coastal state with small population, has seen a surge in crime rates in recent years
