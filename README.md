@@ -49,7 +49,9 @@ mexico.gpkg
 4. Create 3 different graduated layers that contain the following.
 
 	a) Population percentages per state.
+	
 	b) Total disappearances per state.
+	
 	c) Disappearances per 100,000 per state.
 
 5. Export PNG files of all the above maps.
